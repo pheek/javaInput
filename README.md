@@ -1,0 +1,4 @@
+javaInput
+=========
+
+Java Input Function
